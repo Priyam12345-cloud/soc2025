@@ -40,3 +40,12 @@ A rough list of all the goals to meet in our current plan for this project.
   - [ ] API endpoints
   - [ ] Webpage
 - [ ] _"Add to Preferences"_ button on project's detail page for mentee registrations
+
+
+## Course Completion Status Bar
+### Objective: Implement a course completion tracking system for mentees
+- [ ] Progress bar: Display a course completion bar on the mentee dashboard that shows the percentage of modules completed
+- [ ] Backend: Track course progress through assignments, quizzes, and project submissions
+- [ ] Automatic certificate eligibility: Automatically mark mentees eligible for certificates at 100% completion, with status shown on the dashboard
+
+
