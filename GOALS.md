@@ -40,3 +40,9 @@ A rough list of all the goals to meet in our current plan for this project.
   - [ ] API endpoints
   - [ ] Webpage
 - [ ] _"Add to Preferences"_ button on project's detail page for mentee registrations
+
+
+## Mentor-Mentee List Collaboration
+- [ ] Display mentees per project and track remaining seats in real-time
+- [ ] Automatically update available seats when mentees are accepted or rejected
+
